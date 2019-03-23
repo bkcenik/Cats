@@ -1,5 +1,5 @@
 ## Cats
-* CATS ("computationally approaching the state of") is the project repo Northwestern University Data Science Bootcamp.
+* CATS ("computationally approaching the state of") is a project repo for the Northwestern University Data Science Bootcamp.
 * PARTICIPANTS: 
 ** [bkcenik](https://github.com/bkcenik)
 ** [XinleiBai](https://github.com/XinleiBai)
