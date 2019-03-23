@@ -1,1 +1,2 @@
-## This is the repo for the first project in Datacamp.
+# Cats
+### Cats is the repo for the first project on NU Data Science Bootcamp.
