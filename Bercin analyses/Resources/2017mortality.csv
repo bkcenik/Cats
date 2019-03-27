@@ -1,0 +1,59 @@
+State,Total Mortality
+United States,73190000
+Alabama,91770000
+Alaska,70880000
+Arizona,67850000
+Arkansas,90010000
+California,61870000
+Colorado,66340000
+Connecticut,65120000
+Delaware,74960000
+District of Columbia,72540000
+Florida,67210000
+Georgia,79370000
+Hawaii,58490000
+Idaho,74180000
+Illinois,72420000
+Indiana,84860000
+Iowa,73700000
+Kansas,77120000
+Kentucky,92990000
+Louisiana,88110000
+Maine,77160000
+Maryland,71810000
+Massachusetts,67710000
+Michigan,78350000
+Minnesota,65640000
+Mississippi,95130000
+Missouri,82010000
+Montana,75750000
+Nebraska,72600000
+Nevada,76550000
+New Hampshire,71720000
+New Jersey,66750000
+New Mexico,75470000
+New York,62360000
+North Carolina,78560000
+North Dakota,69270000
+Ohio,84970000
+Oklahoma,90240000
+Oregon,71720000
+Pennsylvania,77730000
+Rhode Island,71340000
+South Carolina,82800000
+South Dakota,73660000
+Tennessee,89710000
+Texas,73570000
+Utah,70010000
+Vermont,71490000
+Virginia,71940000
+Washington,68860000
+West Virginia,95710000
+Wisconsin,72200000
+Wyoming,71450000
+,
+Notes,
+These figures are age-adjusted to the total U.S. population in 2000. Causes of death include all ICD-10 codes.,
+,
+Sources,
+"Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death 1999-2017 on [CDC WONDER Online Database](http://wonder.cdc.gov/), released 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on February 11, 2019.",
